@@ -27,6 +27,5 @@ Steps:
 
 4. Open the browser and find the website at `localhost:8000`.
 
-### Contributors
 
-[![](https://github.com/Bhavya-Ahir.png?size=50)](https://github.com/Bhavya-Ahir)
+
